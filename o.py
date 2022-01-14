@@ -227,8 +227,8 @@ def menu():
     print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m Github\x1b[1;91m    :\x1b[1;97m github.com/Sanz-Tzy"
     print"\n[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m Bergabung\x1b[1;91m :\x1b[1;97m %s %s %s" % (ha, op, ta)
     print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m ID\x1b[1;91m        :\x1b[1;97m " +id
-    print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m IP\x1b[1;91m        :\x1b[1;97m " +mbokey
-    print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m negara\x1b[1;91m    :\x1b[1;97m " +-tzy
+    print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m IP\x1b[1;91m        :\x1b[1;97m " +ndrii
+    print"[\x1b[1;92m•\x1b[1;97m]\x1b[1;93m negara\x1b[1;91m    :\x1b[1;97m " +mbokey
     print"\n[\x1b[1;96mSelamat Datang \033[0;93m"+nama+"\033[0;97m]"
     print"\n\033[1;97m[\x1b[1;96m01\x1b[1;97m]\x1b[1;91m.\x1b[1;93m Crack\x1b[1;97m dari id\x1b[1;96m teman/publik"
     print"\033[1;97m[\x1b[1;96m02\x1b[1;97m]\x1b[1;91m.\x1b[1;93m Crack\x1b[1;97m dari id\x1b[1;96m followers"
